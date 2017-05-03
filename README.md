@@ -7,3 +7,4 @@ Learning materials from seminar ALG, summer semester 2017
 * SEM5 - BubbleSort, ShakerSort, HeapSort
 * SEM6 - QuickSort, CountingSort
 * SEM7 - Searching - binary, interpolation searching, binary search tree
+* SEM8 - Recursive algorithms - Fibonacci numbers, Hanoi tower
